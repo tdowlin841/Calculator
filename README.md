@@ -1,3 +1,1 @@
-# XcodeCalculator
-
-Calculator 
+# Calculator 
